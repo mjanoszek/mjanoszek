@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Advertisement-app](https://github.com/mjanoszek/Advertisement-app)
 
-- 🌱 I’m currently learning **Framer Motion**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Front-End programming, OSINT, UX/UI**
 
