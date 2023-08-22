@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjanoszek&label=Profile%20views&color=1976d2&style=flat" alt="mjanoszek" /> </p>
 
-- 🔭 I’m currently working on [Advertisement-app](https://github.com/mjanoszek/Advertisement-app)
+- 🔭 I’m currently working on [store-app](https://github.com/mjanoszek/store-app)
 
 - 🌱 I’m currently learning **Next.js**
 
